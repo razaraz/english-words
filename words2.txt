@@ -24838,6 +24838,7 @@ borealis
 borean
 Boreas
 borecole
+bored
 boredom
 boree
 boreen
@@ -170351,6 +170352,7 @@ Robbin
 robbin
 robbing
 robe
+robed
 robeless
 Robenhausian
 rober
